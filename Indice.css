@@ -1,0 +1,24 @@
+
+
+
+a:hover{
+    color: black;
+}
+
+
+/*Del documento Formato*/
+
+.Indi{
+    position: fixed;
+    border: 1px solid white;
+    background-color: rgb(204, 194, 101, 0.8);  
+    width: 100px;
+    height: 20px;
+    bottom: 0;
+    left: 90%;
+    right: 0;
+  }
+
+body{
+    background-color: linen;
+  }

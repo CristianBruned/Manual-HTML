@@ -1,0 +1,72 @@
+div{
+  background: red;
+  height: 100px;
+  width: 200px;
+}
+
+.div1{
+    background: red;
+    height: 100px;
+    width: 200px;
+  }
+  .div2{
+    border: 10px solid rgb(216, 24, 24);
+    background: red;
+    height: 100px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .Indi{
+    position: fixed;
+    border: 1px solid white;
+    background-color: rgb(204, 194, 101, 0.8);  
+    width: 100px;
+    height: 20px;
+    bottom: 0;
+    left: 90%;
+    right: 0;
+  }
+
+  .Elementos{
+    font-weight: bolder;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Listas{
+  font-weight: bold;
+  font-size: 18px;   
+  
+}
+body{
+  background-color: aquamarine;
+  margin-left: 20px;
+}
+
+
+.header {
+  background-color: cornflowerblue;
+  color: #333;
+  padding: 2rem 0;
+
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+.header a {
+  color: burlywood;
+  text-decoration: none;
+}
+.logo {
+  letter-spacing: 5px;
+  font-size: 1.5em;
+}
+
+body {
+  width: 95%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
